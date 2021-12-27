@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-    <h3>springmvc入门成功</h3>
+    <h3>success...${username}</h3>
 </body>
 </html>
